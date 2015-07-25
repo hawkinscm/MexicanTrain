@@ -1,0 +1,152 @@
+
+ M   M  EEEEE  X   X  IIIII  CCCCC    A    N   N     TTTTT  RRRR     A    IIIII  N   N
+ MM MM  E       X X     I    C       A A   NN  N       T    R   R   A A     I    NN  N
+ M M M  EEEE     X      I    C      AAAAA  N N N       T    RRRR   AAAAA    I    N N N
+ M   M  E       X X     I    C      A   A  N  NN       T    R  R   A   A    I    N  NN
+ M   M  EEEEE  X   X  IIIII  CCCCC  A   A  N   N       T    R   R  A   A  IIIII  N   N
+_______________________________________________________________________________________
+
+                            ----------------------------                        
+                           | MEXICAN TRAIN INSTRUCTIONS |
+                            ----------------------------
+
+--------------------------
+ SPECIAL FOR THIS VERSION
+--------------------------
+
+ Private trains are marked in red.
+ Public trains are marked in green.
+ Once you've played a domino on a train, it is final! You can't take it back.
+ Also note that the double-blank domino is worth 50 points.
+
+------
+ GOAL
+------
+
+ The goal of Mexican Train is to be the first player to lay down all of your dominoes.
+
+-------
+ SETUP
+-------
+
+ Shuffle the dominoes, face down, on the table. Each player takes the appropriate 
+   number of dominoes (see below) and stands them on edge, so that they can see the 
+   faces (the side with the pips) but their opponents cannot.
+
+ Number of players:
+   For 2-3 players, use a double-9  set and each player takes 15
+   For   4 players, use a double-12 set and each player takes 15
+   For 5-6 players, use a double-12 set and each player takes 12
+   For 7-8 players, use a double-12 set and each player takes 11
+
+ The remaining dominoes are left on the table face down. This supply is known as the 
+   boneyard.
+
+------------
+ GAME START
+------------
+
+ The player with the double-12 (or double-9 when playing with 2-3 players) starts the
+   first round by placing the double-12 in the center of the table. This domino serves 
+   as the "engine" for the round.
+
+ Each later round starts with the player who has drawn the next-lowest double. For 
+   example, the player who draws the double-11 in the second round starts that round. 
+   The 13th and final round begins with the player who draws the double-blank.
+
+ If there is a situation where no player has drawn the tile required to begin the
+   round, players take turns drawing from the boneyard until it is found. The player 
+   who draws it starts the round.
+
+------------
+ FIRST TURN
+------------
+
+ The start player now starts to build a train (a single row of dominoes) starting from 
+   the center domino and moving toward the player. The end of the domino placed near 
+   the engine must match the engine's double number. (Example: If the engine is a 
+   double-12, the end of the domino placed near the engine must be a 12. The other end 
+   can be anything at all.)
+
+ Taking turns in a clockwise direction, the other players do the same.
+
+ NOTE: For the first turn, and only the first turn, players may place as many dominoes 
+   as they wish as long as they continue forming a valid train. (A valid train is 
+   formed when the ends of adjacent dominoes match.) If a player is able to play all of 
+   his dominoes on the first turn, the round ends after each player has had one turn.
+
+ If a player cannot start a train on the first turn, they place a marker where a domino 
+   would have been placed to indicate that they could not start a train. (They do not 
+   draw any dominoes from the boneyard.) On the second turn and all subsequent turns, 
+   any player can play dominoes in marked areas. On the first turn, the only options 
+   for each player are to start a train or to pass.
+
+-------------------
+ THE MEXICAN TRAIN
+-------------------
+
+ Starting with the second turn, any player can start the Mexican Train by starting a 
+   new train in the same way that they started their own train (i.e., the end of the 
+   domino placed near the engine must match the engine's double number).
+
+-----------------------------
+ SECOND AND SUBSEQUENT TURNS
+-----------------------------
+
+ After the first turn, play continues in a clockwise direction. However, each player is 
+   limited to placing a single domino per turn, unless the domino is a double.
+
+ The single domino played may be added to the player's own train, to another player's 
+   train if that train is marked "public" (indicating the owner could not play a domino 
+   on the previous move), or to the Mexican Train. The Mexican Train is always open to 
+   all players.
+
+ Each domino must always be played so that it continues forming a valid train.
+
+ If a player cannot place a domino, he must draw one from the boneyard. He may then 
+   play this domino, if a legal play exists. If he cannot play, his train is marked as 
+   public and the next player takes a turn. (If no dominoes remain in the boneyard, it 
+   will be the same as if the player drew a domino he could not play.
+
+ When a player adds a domino to his own train, and his train has been marked public,
+   his train then becomes private again and other players are no longer allowed to add 
+   to it.
+
+---------
+ DOUBLES
+---------
+
+ Starting with the second turn, any time a player places a double tile (both ends have 
+   the same number of pips), he may play a second domino to "satisfy the double," 
+   which means that he plays a tile to that open double. If the player cannot satisfy
+   the double, his turn is over.
+
+ The next player to go must now try to satisfy the double, even if the move would 
+   otherwise be illegal. If the next player cannot satisfy the double, he must draw a 
+   domino from the boneyard -- if one is available. If the boneyard domino cannot be 
+   used to satisfy the double, or none is available, his train is marked public and the 
+   play moves on to the next player. This will continue until someone satisfies the
+   double.
+
+ If no dominoes are left in the boneyard and none of the players are able to satisfy 
+   the double, the round will end.
+  
+---------
+ SCORING
+---------
+
+ When one player places his final domino, or when no player has a legal play, the game 
+   ends. At this point, scores are calculated.
+
+ The player going out receives zero points. Each other player adds the sum of the pips 
+   on their dominoes to determine their score, with the double-blank domino counting as 
+   50 points.
+
+---------
+ WINNING
+---------
+
+ After all rounds have been completed, the player with the fewest points wins.
+   If there is a tie, the player who scored the most zero-point rounds wins. If there 
+   is still a tie at this point, the player with the lowest total in a round, other 
+   than zero, wins.
